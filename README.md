@@ -1,10 +1,13 @@
 # Hardhat-Nft
 
 ## Goerli Testnet Results:
+RandomIpfsNft:   
 https://testnets.opensea.io/collection/random-ipfs-nft-dafrzgwbjl
    
+BasicNft:   
 https://testnets.opensea.io/collection/dogie-jg6nr4tjj1
    
+Dynamic Svg Nft:   
 https://testnets.opensea.io/collection/dynamic-svg-nft-lc6lkt05q9   
 ### Local Deployment Results:
 ![image](https://user-images.githubusercontent.com/57165451/189010136-865132d1-ab95-467d-972e-18dd4db1b191.png)
