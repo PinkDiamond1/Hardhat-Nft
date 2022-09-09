@@ -14,3 +14,6 @@ https://testnets.opensea.io/collection/dynamic-svg-nft-lc6lkt05q9
    
 ### Unit Test Results:
 ![image](https://user-images.githubusercontent.com/57165451/189010246-b62c2036-2227-47e7-8190-2d76c66c126d.png)
+
+## Deploy - Mint Results:
+![image](https://user-images.githubusercontent.com/57165451/189428813-aa9c374e-ad0a-4101-a6c3-381ddae924a8.png)
